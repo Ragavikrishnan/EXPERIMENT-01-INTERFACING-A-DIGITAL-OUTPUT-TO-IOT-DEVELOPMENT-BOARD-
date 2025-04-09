@@ -1,4 +1,4 @@
-###  DATE: 12/03/2025
+m###  DATE: 12/03/2025
 ###  NAME: RAGAVI K
 ###  ROLL NO : 212223040161
 ###  DEPARTMENT: CSE
@@ -110,8 +110,9 @@ int main(void)
  ![on state](https://github.com/user-attachments/assets/3b896975-08a7-4327-bf79-30d701968ef1)
 
  ## OFF:
-![led off](https://github.com/user-attachments/assets/86e583f3-4431-4586-baaa-d226e9160a17)
- 
+
+ ![led offf](https://github.com/user-attachments/assets/be66c0a9-594c-47e0-96da-6807313cddfb)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
